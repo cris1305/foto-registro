@@ -1,0 +1,7 @@
+{
+  "name": "BioCheck - Registro Biométrico",
+  "description": "Sistema minimalista de registro de entrada y salida con reconocimiento facial.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
